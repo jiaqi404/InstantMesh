@@ -1,11 +1,11 @@
 pytorch-lightning==2.1.2
 gradio==3.41.2
-huggingface-hub
+huggingface-hub==0.23.0
 einops
 omegaconf
 torchmetrics
 webdataset
-accelerate
+accelerate==0.31.0
 tensorboard
 PyMCubes
 trimesh
